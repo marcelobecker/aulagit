@@ -1,5 +1,5 @@
 <?php
-echo "Aula de GIT";
+echo "Aula de GIT" da Code Education;
 echo "Iniciando..";
 echo "Ola";
 echo "Novo branch" - 2;
